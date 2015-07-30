@@ -1,0 +1,12 @@
+Package: oracle-java7
+Version: 0.0.17-precise
+Architecture: amd64
+Maintainer: Michael Brindle <mbrindle@willowgarage.com>
+Installed-Size: 33603
+Depends: oracle-java7-libs
+Conflicts: openjdk
+Provides: java, java-6-runtime, java-runtime, java2-runtime, java5-runtime, java7-runtime
+Section: shared
+Priority: extra
+Multi-Arch: foreign
+Description: Provides the Oracle i386 java binaries.
